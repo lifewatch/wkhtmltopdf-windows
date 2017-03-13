@@ -29,12 +29,12 @@ This package can be found on [Packagist](http://packagist.org) and installed wit
 
 Require the package for Windows with:
 
-    php composer.phar require wemersonjanuario/wkhtmltopdf-windows "0.12.4"
+    php composer.phar require lifewatch/wkhtmltopdf-windows "0.12.4"
 
 
 The binaries will then be located at:
 
-    vendor/wemersonjanuario/wkhtmltopdf-windows/bin/wkhtmltopdf-windows
+    vendor/lifewatch/wkhtmltopdf-windows/bin/wkhtmltopdf-windows
 
 Also a symlink will be created in your configured bin/ folder, for example:
 

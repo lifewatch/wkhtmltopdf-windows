@@ -1,5 +1,5 @@
 {
-  "name": "wemersonjanuario/wkhtmltopdf-windows",
+  "name": "lifewatch/wkhtmltopdf-windows",
   "description": "Convert html to pdf using webkit (qtwebkit). Static linked windows binary for 32 bit and 64 bit systems.",
   "keywords": [
     "pdf",
@@ -15,13 +15,19 @@
   "homepage": "http://wkhtmltopdf.org/",
   "authors": [
     {
+      "name": "LifeWatch",
+      "homepage": "http://www.lifewatch.eu/",
+      "role": "wkhtmltopdf-windows maintainer"
+    },
+    {
       "name": "Wemerson Januario",
       "email": "wemerson.januario@gmail.com",
-      "homepage": "http://wemersonjanuario.com.br"
+      "homepage": "http://wemersonjanuario.com.br",
+      "role": "Initial wkhtmltopdf-windows creator"	
     }
   ],
   "support": {
-    "issues": "https://github.com/wemersonjanuario/wkhtmltopdf-windows/issues?state=open"
+    "issues": "https://github.com/lifewatch/wkhtmltopdf-windows/issues?state=open"
   },
   "minimum-stability": "stable",
   "bin": [
