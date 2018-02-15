@@ -11,7 +11,7 @@
     "htmltopdf",
     "htmltoimage"
   ],
-  "license": "LGPL Version 3",
+  "license": "LGPL-3.0-or-later",
   "homepage": "http://wkhtmltopdf.org/",
   "authors": [
     {
