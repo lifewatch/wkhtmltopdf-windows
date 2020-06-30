@@ -5,7 +5,7 @@ This Repo contains the Windows (MSVC 2015) Binaries for Windows Vista or later; 
 [wkhtmltopdf project](http://wkhtmltopdf.org/).
 More about the functionality of wkhtmltopdf and wkthmltoimage can be found there.
 
-All pre-compiled binaries can be found here: [https://github.com/wkhtmltopdf/packaging](https://github.com/wkhtmltopdf/packaging
+All pre-compiled binaries can be found here: [https://github.com/wkhtmltopdf/packaging](https://github.com/wkhtmltopdf/packaging)
 
 ## PHP packages
 
