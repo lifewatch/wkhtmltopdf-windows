@@ -5,9 +5,7 @@ This Repo contains the Windows (MSVC 2015) Binaries for Windows Vista or later; 
 [wkhtmltopdf project](http://wkhtmltopdf.org/).
 More about the functionality of wkhtmltopdf and wkthmltoimage can be found there.
 
-Binaries for __Linux i386__, also installable with composer, can be found here: [github.com/h4cc/wkhtmltopdf-i386](https://github.com/h4cc/wkhtmltopdf-i386)
-
-Binaries for __Linux amd64__, also installable with composer, can be found here: [github.com/h4cc/wkhtmltopdf-amd64](https://github.com/h4cc/wkhtmltopdf-amd64)
+All pre-compiled binaries can be found here: [https://github.com/wkhtmltopdf/packaging](https://github.com/wkhtmltopdf/packaging
 
 ## PHP packages
 
@@ -19,7 +17,7 @@ Non Framework [github.com/wemersonjanuario/pdf](https://github.com/wemersonjanua
 
 _Hint_:
 The version of the binary is equal to the git tag.
-To install the latest version, use '0.12.5'.
+To install the latest version, use '0.12.6'.
 
 In case this package does _not_ work on your system, try installing the matching system packages from here: [http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html).
 
@@ -29,7 +27,7 @@ This package can be found on [Packagist](http://packagist.org) and installed wit
 
 Require the package for Windows with:
 
-    php composer.phar require lifewatch/wkhtmltopdf-windows "0.12.5"
+    php composer.phar require lifewatch/wkhtmltopdf-windows "0.12.6"
 
 
 The binaries will then be located at:
